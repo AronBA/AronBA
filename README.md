@@ -1,13 +1,8 @@
-### Hello There 👋
-
-I don't know most of the time what i'm doing
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2314FF00&duration=10000&lines=Hello+there...)](https://git.io/typing-svg)
+My name is Aron and I suck at coding :)
+Most of the time I don't even know what im doing.
 <p>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AronBA&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=FDFCFC&bg_color=151515" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronBA&&show_icons=true&title_color=ffffff&icon_color=004200&text_color=FDFCFC&bg_color=151515" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AronBA&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronBA&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 
