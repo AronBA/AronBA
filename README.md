@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F73200&multiline=true&lines=Message+hello+%3D+new+Message(%22Hi%22))](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73200&multiline=true&lines=Message+hello+%3D+new+Message(%22Hi%22))](https://git.io/typing-svg)
 Something about myself:
 - 19 years old
 - Visiting a random computer science school in Switzerland 
