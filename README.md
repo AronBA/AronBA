@@ -3,7 +3,7 @@ Something about myself:
 - 19 years old
 - Visiting a  computer science school in Basel 
 - My code is bad, but atleast it works (most of it) 
-- Average PhP enjoyer
+- Average PhP enjoyer (I do not)
 - I  suck at chess 
 - I'm a gym rat 
 
