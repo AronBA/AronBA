@@ -14,4 +14,5 @@ If you wanna see some really bad Code check out my work or contact me: contact@a
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AronBA&&layout=compact&count_private=true&show_icons=true&hide_border=true&card_width=200&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AronBA&layout=compact&hide_border=true&card_width=200&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
+![](https://komarev.com/ghpvc/?username=AronBA)
 
