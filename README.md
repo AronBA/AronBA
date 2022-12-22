@@ -7,7 +7,7 @@ Something about myself:
 - I  suck at chess 
 - I'm a gym rat 
 
-If you wanna see some really bad Code check out my work or contact me: contact@aronba.dev
+If you wanna see some really bad Code check out my work or contact me: contact(at)aronba.dev
 
 
 <p>
