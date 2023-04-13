@@ -6,6 +6,7 @@ Something about myself:
 - Average PhP enjoyer (I do not)
 - I  suck at chess 
 - I'm a gym rat 
+- I use arch btw
 
 If you wanna see some really bad Code check out my work or contact me: contact(at)aronba.dev
 
