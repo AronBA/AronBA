@@ -1,11 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73200&multiline=true&lines=Message+hello+%3D+new+Message(%22Hi%22))](https://git.io/typing-svg)
 Something about myself:
-- 19 years old
+- 21 years old
 - Visiting a  computer science school in Basel 
 - My code is bad, but atleast it works (most of it) 
-- Average PhP enjoyer (I do not)
 - I  suck at chess 
-- I'm a gym rat 
+- I bench 225 (even more lol)
 - I use arch btw
 
 If you wanna see some really bad Code check out my work or contact me: contact(at)aronba.dev
