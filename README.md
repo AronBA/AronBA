@@ -1,7 +1,6 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73200&multiline=true&lines=Message+hello+%3D+new+Message(%22Hi%22))](https://git.io/typing-svg)
 Something about myself:
 - 21 years old
-- Visiting a  computer science school in Basel 
 - My code is bad, but atleast it works (most of it) 
 - I  suck at chess 
 - I bench 225 (even more lol)
