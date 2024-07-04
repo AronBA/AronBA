@@ -2,9 +2,9 @@
 Something about myself:
 - 21 years old
 - My code is bad, but atleast it works (most of it) 
-- I  suck at chess 
-- I bench 225 (even more lol)
-- I use arch btw
+- I suck at chess (1500 elo) 
+- I bench over 100kg (and squat a shit ton)
+- I use arch btw (VIM Enjoyer)
 
 If you wanna see some really bad Code check out my work or contact me: contact(at)aronba.dev
 
