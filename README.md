@@ -6,7 +6,7 @@ Something about myself:
 - I bench over 100kg (and squat a shit ton)
 - I use arch btw (VIM Enjoyer)
 
-If you wanna see some really bad Code check out my work or contact me: contact(at)aronba.dev
+If you wanna see some really bad Code check out my work or contact me: github.makeover622@passmail.net
 
 
 <p>
