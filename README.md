@@ -1,10 +1,10 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73200&multiline=true&lines=Message+hello+%3D+new+Message(%22Hi%22))](https://git.io/typing-svg)
 Something about myself:
-- 21 years old
-- My code is bad, but atleast it works (most of it) 
 - I suck at chess (1500 elo) 
-- I bench over 100kg (and squat a shit ton)
-- I use arch btw (VIM Enjoyer)
+- I enjoy Powerlifting (360 dots)
+- I use Arch btw (yes fr)
+- I like Java (toxic relationship)
+  
 
 If you wanna see some really bad Code check out my work or contact me: github.makeover622@passmail.net
 
